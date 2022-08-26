@@ -1,5 +1,5 @@
 # awesome-devops
-
+ 
 A curated list of awesome softwares for Devops.
 
 ## Toc
@@ -58,6 +58,8 @@ A curated list of awesome softwares for Devops.
 * [Docker Machine](https://github.com/docker/machine) - Docker Machine is a tool that lets you install Docker Engine on virtual hosts, and manage the hosts with docker-machine commands.
 * [Portainer](https://github.com/portainer/portainer) - Simple management UI for Docker [http://portainer.io](http://portainer.io)
 * [Docker Registry](https://docs.docker.com/registry/) - Docker Trusted Registry (DTR) is a commercial product that enables complete image management workflow, featuring LDAP integration, image signing, security scanning, and integration with Universal Control Plane.
+### Testing purposes only
+* [Microk8s](https://microk8s.io/) - MicroK8s has a small disk and memory footprint and is optimized for quick installations of single and multi-mode clusters.
 
 ## IDE & Editor
 
